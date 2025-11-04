@@ -19,7 +19,7 @@ const API_KEY = 'YOUR_API_KEY';
 ```
 
 ## Screenshots
-![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/1.png)
+![sample-screenshot](1.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/2.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/3.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/4.png)
